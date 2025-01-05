@@ -1,0 +1,1 @@
+To maintain order, use a different data structure like an array of arrays or a hash with an explicit order.  If you need to preserve insertion order, consider using a more modern Perl structure like a `Tie::IxHash`.
